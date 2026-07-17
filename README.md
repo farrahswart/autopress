@@ -1,2 +1,2 @@
 # autopress
-for BABFT gold farm
+for BABFT gold farm, prevents logging out
